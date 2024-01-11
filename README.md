@@ -50,12 +50,12 @@ Welcome to the NGO Fundraising Application, a powerful platform built with React
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NGOFundraisingApp.git
+   git clone https://github.com/harshalpatil7372/NGO-s-fundrasing-application.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd NGOFundraisingApp
+   cd NGO-s-fundrasing-applicatio
    ```
 
 3. Install dependencies:
