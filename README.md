@@ -65,7 +65,7 @@ Welcome to the NGO Fundraising Application, a powerful platform built with React
 
 4. Start the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
 The application will be accessible at `http://localhost:3000`.
