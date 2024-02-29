@@ -44,7 +44,7 @@ Welcome to the NGO Fundraising Application, a powerful platform built with React
 
 - **Backend:** Utilizing blockchain technology for secure and transparent transactions.
 
-- **Smart Contracts:** Employing smart contracts for automated and trustless execution of fundraising processes.
+- **Smart Contracts:** Employing smart contracts for automated and trustfull execution of fundraising processes.
 
 ## How to Run the Application
 
